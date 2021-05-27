@@ -1,0 +1,185 @@
+header {
+text-align: center;
+background-image:url('imagen/mural.jpeg');
+padding:10px;
+margin-bottom:10px;
+}
+nav{
+padding-top: 10px;
+text-align: left;
+
+}
+a:hover {
+color:red;
+}
+
+a {
+font-family:futura;
+Color:#00389d;
+Text-decoration:none;
+Padding-top: 20px;
+padding-right: 20px;
+padding-bottom: 20px;
+padding-left: 20px;
+font-weight:bold;
+
+}
+
+
+body{
+margin:auto;
+}
+
+a{
+padding:20px;
+}
+
+.left{
+float:right;
+padding-top: 5px;
+padding-bottom: 20px;
+padding-right: 20px;
+}
+
+
+
+h2 {
+font-size:30px;
+font-family:Montserrat;
+color:black;
+}
+
+
+
+ol {
+font-family:Montserrat;
+color:black;
+
+}
+
+p1 {
+font-family:Montserrat;
+color:black;
+
+}
+
+
+.caristic {
+Background-color:#f2d25e;
+border: 20px solid white;
+padding-top: 20px;
+padding-right: 20px;
+padding-bottom: 10px;
+padding-left: 20px;
+margin-bottom: 20px;
+margin-top: 10px;
+With:500px;
+Height:400px;
+display:block;
+margin:auto;
+font-family:Montserrat;
+}
+
+
+.titan {
+color:black;
+Background-color:#f2d25e;
+border: 20px solid white;
+padding-top: 20px;
+padding-right: 20px;
+padding-bottom: 10px;
+padding-left: 20px;
+margin-bottom: 20px;
+margin-top: 10px;
+With:500px;
+Height:400px;
+display:block;
+margin:auto;
+font-family:Montserrat;
+}
+
+h4 {
+font-size:30px;
+font-family:Montserrat;
+color:black;
+}
+
+p2 {
+font-family:Montserrat;
+color:black;
+
+}
+
+
+.microman {
+color:black;
+Background-color:#f2d25e;
+border: 20px solid white;
+padding-top: 20px;
+padding-right: 20px;
+padding-bottom: 10px;
+padding-left: 20px;
+margin-bottom: 20px;
+margin-top: 10px;
+With:500px;
+Height:400px;
+display:block;
+margin:auto;
+font-family:Montserrat;
+}
+
+h5 {
+font-size:30px;
+font-family:Montserrat;
+color:black;
+}
+
+p3 {
+font-family:Montserrat;
+color:black;
+
+}
+
+
+.cuatrero {
+color:black;
+Background-color:#f2d25e;
+border: 20px solid white;
+padding-top: 20px;
+padding-right: 20px;
+padding-bottom: 10px;
+padding-left: 20px;
+margin-bottom: 20px;
+margin-top: 10px;
+With:500px;
+Height:400px;
+display:block;
+margin:auto;
+font-family:Montserrat;
+}
+
+h6 {
+font-size:30px;
+font-family:Montserrat;
+color:black;
+}
+
+p6 {
+font-family:Montserrat;
+color:black;
+
+}
+
+footer {
+background-color:#00389d;
+color:white;
+padding:50px;
+text-align:left;
+}
+p3 {
+font-family:Montserrat;
+color:white;
+text-align:center;
+}
+
+

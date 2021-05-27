@@ -1,0 +1,120 @@
+header {
+text-align: center;
+background-image:url('imagen/mural.jpeg');
+padding:10px;
+margin-bottom:10px;
+}
+nav{
+padding-top: 10px;
+text-align: left;
+
+}
+a:hover {
+color:red;
+}
+
+a {
+font-family:futura;
+Color:#00389d;
+Text-decoration:none;
+Padding-top: 20px;
+padding-right: 20px;
+padding-bottom: 20px;
+padding-left: 20px;
+font-weight:bold;
+
+}
+
+
+body{
+margin:auto;
+}
+
+a{
+padding:20px;
+}
+.left{
+float:left;
+padding-top: 20px;
+padding-bottom: 20px;
+padding-right: 20px;
+}
+
+
+h1 {
+font-size:30px;
+font-family:Montserrat;
+color:black;
+
+}
+
+h4 {
+font-size:30px;
+font-family:Montserrat;
+color:black;
+}
+
+ul {
+font-family:Montserrat;
+color:black;
+}
+
+p1 {
+font-family:Montserrat;
+color:black;
+
+}
+p2 {
+font-family:Montserrat;
+color:black;
+
+}
+Div {
+color:white;
+Background-color:#f2d25e;
+border: 20px solid white;
+padding-top: 20px;
+padding-right: 20px;
+padding-bottom: 10px;
+padding-left: 20px;
+margin-bottom: 20px;
+margin-top: 10px;
+With:500px;
+Height:450px;
+display:block;
+margin:auto;
+}
+
+.video {
+Background-color:#f2d25e;
+With:500px;
+Height:575px;
+}
+
+
+
+iframe {
+display: block;
+margin: auto;
+width: 100%;
+height: 550px;
+}
+
+
+
+
+footer {
+background-color:#00389d;
+color:white;
+padding:50px;
+text-align:left;
+
+}
+p3 {
+font-family:Montserrat;
+color:white;
+text-align:center;
+}
+
+
+
